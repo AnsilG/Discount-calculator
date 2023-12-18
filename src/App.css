@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia&display=swap');
+body{
+  background-image:url("https://uploads-ssl.webflow.com/640d8e45aa58d31a5157afd2/64ab3a6b2c164cc22c3d8e25_Slide%2016_9%20-%20111.png");
+  background-size: cover;
+  font-family: 'Kalnia', serif;
+}
+.form-row{
+  background-color: rgb(20, 20, 20);
+border-radius: 20px;
+}
+.amount{
+  font-size: 30px;
+}
